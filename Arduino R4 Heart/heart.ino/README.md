@@ -38,5 +38,29 @@ It is ideal for:
 
 ## Software & Libraries
 
-Install the following library using **Arduino Library Manager**:
+Install the following library using **Arduino Library Manager**
+
+---
+
+## Heart Bitmap Pattern
+
+The heart is drawn using a custom **8×12 bitmap**, where:
+- `1` = LED ON
+- `0` = LED OFF
+
+---
+
+## License
+
+MIT License — feel free to use, modify, and share.
+
+---
+
+## Acknowledgements
+
+- Arduino Team for the Uno R4 WiFi
+- Arduino_LED_Matrix library contributors
+
+## Happy making! ❤️✨
+---
 

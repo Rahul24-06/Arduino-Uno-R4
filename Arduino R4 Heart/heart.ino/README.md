@@ -1,11 +1,11 @@
-# ❤️ Audio-Reactive Heart on Arduino Uno R4 WiFi LED Matrix
+# Audio-Reactive Heart on Arduino Uno R4 WiFi LED Matrix
 
 A simple and elegant Arduino project that displays a **heart icon** on the **built-in 12×8 LED matrix** of the **Arduino Uno R4 WiFi**.  
 Perfect as a base for **audio-reactive**, **interactive**, or **pop-culture themed** projects.
 
 ---
 
-## 📸 Demo Preview
+## Demo Preview
 
 The LED matrix displays a heart shape that can be:
 - Static ❤️  
@@ -14,7 +14,7 @@ The LED matrix displays a heart shape that can be:
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project demonstrates:
 - How to use the **Arduino Uno R4 WiFi onboard LED matrix**
@@ -28,7 +28,7 @@ It is ideal for:
 
 ---
 
-## 🧰 Hardware Required
+## Hardware Required
 
 - Arduino Uno R4 WiFi
 - USB-C cable
@@ -36,7 +36,7 @@ It is ideal for:
 
 ---
 
-## 📦 Software & Libraries
+## Software & Libraries
 
 Install the following library using **Arduino Library Manager**:
 

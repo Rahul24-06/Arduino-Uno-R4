@@ -3,6 +3,8 @@
 A simple and elegant Arduino project that displays a **heart icon** on the **built-in 12×8 LED matrix** of the **Arduino Uno R4 WiFi**.  
 Perfect as a base for **audio-reactive**, **interactive**, or **pop-culture themed** projects.
 
+![Demo](op.gif)
+
 ---
 
 ## Demo Preview
